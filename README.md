@@ -1,5 +1,5 @@
 
-[![N|Solid](https://revel.github.io/img/RevelWhiteLines.png)]()
+[![N|Solid](https://mythinkpond.com/img/2016/01/gorevelframework.png)]()
 
 # GORestWebShop
 GORestWebshop is a web based software developed using the RESTful pattern. GO Revel Framework is used here.
@@ -14,7 +14,7 @@ The users can have the following facilities by this software:
 
 ## Limitation of current version
   - Under development
-  
+
 ## Tech
 Webshop uses:
 * GO Revel Framework
@@ -26,3 +26,4 @@ Webshop uses:
 git clone https://github.com/Nushrat-Nishi/GORestWebshop
 cd GORestWebshop
 ```
+ 
