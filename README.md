@@ -26,4 +26,3 @@ Webshop uses:
 git clone https://github.com/Nushrat-Nishi/GORestWebshop
 cd GORestWebshop
 ```
- 
